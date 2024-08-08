@@ -69,3 +69,16 @@ export const SEC3 = [
         title:'حقوق خانواده'
     },
 ]
+
+
+export const SEC4 = [
+    {
+        pic:'/homepic/h-blog1.jpg'
+    },
+    {
+        pic:'/homepic/h-blog2.jpg'
+    },
+    {
+        pic:'/homepic/h-blog3.jpg'
+    },
+]
