@@ -1,15 +1,19 @@
+'use client'
 import React from "react";
 import Image from "next/image";
 import { NAVBAR } from "@/constant";
+import { useRouter } from "next/navigation";
 
 
 export default function Navbar() {
+  const router = useRouter()
+
   return (
     <div className=" relative">
       <nav className=" absolute z-50 w-full px-[26px] lg:px-[90px] xl:px-[130px] 2xl:px-[160px] flex justify-between h-[4rem] bg-[#020202be]">
-        <div className=" flex  items-center gap-x-6 lg:hidden">
+        <div className=" flex   items-center gap-x-6 lg:hidden">
           <Image src="/svgicon/menu.svg" alt="pic" width={30} height={100} />
-          <button className=" text-white py-2 px-5 text-[13px] bg-[#8b8b8b5f] rounded-[10px]">درخواست مشاوره</button>
+          <button onClick={()=> router.push('/contact-us')} className=" text-white py-2 px-5 text-[13px] bg-[#8b8b8b5f] rounded-[10px]">درخواست مشاوره</button>
         </div>
         <div className=" lg:flex gap-x-4  hidden items-center flex-row-reverse">
             <div className=" text-white  text-center ">
@@ -22,7 +26,7 @@ export default function Navbar() {
                 <p>ساعت کاری</p>
             </div>
         </div>
-        <div className=" flex  items-center gap-x-2">
+        <div onClick={()=> router.push('/')} className=" cursor-pointer flex  items-center gap-x-2">
           <h1 className=" text-white text-[15px] lg:text-[20px] font-bold">کاویانی</h1>
           <Image src="/svgicon/logo.svg" alt="pic" width={30} height={100} />
         </div>
@@ -39,7 +43,7 @@ export default function Navbar() {
                 ))}
                 
              </ul>
-             <button className=" -top-2 absolute text-white py-2 px-5 text-[13px] bg-[#8b8b8b5f] rounded-[10px]">درخواست مشاوره</button>
+             <button onClick={()=> router.push('/contact-us')} className=" -top-2 absolute text-white py-2 px-5 text-[13px] bg-[#8b8b8b5f] rounded-[10px]">درخواست مشاوره</button>
 
         </div>
       </div>
