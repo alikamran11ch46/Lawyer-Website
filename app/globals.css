@@ -8,3 +8,9 @@
   background-position: center;
   background-size: cover;
 }
+.aboutbg{
+  background-image: url('../public/homepic/about.jpg');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
