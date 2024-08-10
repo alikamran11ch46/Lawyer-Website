@@ -82,3 +82,23 @@ export const SEC4 = [
         pic:'/homepic/h-blog3.jpg'
     },
 ]
+
+
+export const CONTACT = [
+    {
+        title:'026-34847474',
+        pic:'/svgicon/phone.svg'
+    },
+    {
+        title:'09223838374',
+        pic:'/svgicon/phone.svg'
+    },
+    {
+        title:'Test@gmail.com',
+        pic:'/svgicon/mail.svg'
+    },
+    {
+        title:'تهران - ملاصدرا - خیابان شیراز شمالی - نبش کوچه ',
+        pic:'/svgicon/map.svg'
+    },
+]
