@@ -33,7 +33,7 @@ export default function Navbar() {
             </div>
         </div>
         <div onClick={()=> router.push('/')} className=" cursor-pointer flex  items-center gap-x-2">
-          <h1 className=" text-white text-[15px] lg:text-[20px] font-bold">کاویانی</h1>
+          <h1 className=" text-white text-[15px] lg:text-[20px] font-bold">شمس</h1>
           <Image src="/svgicon/logo.svg" alt="pic" width={30} height={100} />
         </div>
 
