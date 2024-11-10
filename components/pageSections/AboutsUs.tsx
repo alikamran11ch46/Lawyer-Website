@@ -39,7 +39,7 @@ export default function AboutsUs() {
                 className=" text-white  xl:flex xl:flex-col xl:justify-center  px-3 pt-7 w-full h-full border-[4px] border-[#D4AF37]"
               >
                 <h1 className=" text-center  font-bold text-[32px] xl:text-[40px] lg:mb-10 mb-5">
-                  محسن کاویانی
+                   پارسا شمس
                 </h1>
                 <p className="  text-[13px] lg:text-[16px] xl:leading-8 mb-3">
                   لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با
