@@ -12,7 +12,7 @@ export default function Footer() {
           <div className=" flex items-center  gap-x-2">
             <Image src="/svgicon/logo.svg" alt="pic" width={40} height={100} />
             <h1 className=" text-white text-[25px] lg:text-[20px] font-bold">
-              کاویانی
+              شمس
             </h1>
           </div>
           <p className=" text-[#ffffff9f] max-w-[12rem] text-[11px] ">
