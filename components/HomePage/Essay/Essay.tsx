@@ -2,6 +2,7 @@ import React from "react";
 import Image from "next/image";
 import Button from "@/components/Button";
 import { SEC4 } from "@/constant";
+import Link from "next/link";
 
 export default function Essay() {
   return (
@@ -27,7 +28,10 @@ export default function Essay() {
                 <p className=" text-[24px] font-bold">حکم خیانت زن به شوهر </p>
                 <p dir="rtl" className=" px-2 mr-5 mt-4">به طور کلی خیانت، تجربه‌ ای دردناک و ویرانگر است که می‌تواند  خانواده را متزلزل  کند و روی تمامی ابعاد آن اثر مخرب دارد. در این میان، خیانت زن به شوهر</p>
                 <div className=" w-full text-center">
-                <Button style="text-black"/>
+                <Link href='/detailpage'>
+                  <Button style="text-black"/>
+
+                </Link>
 
                 </div>
             </div>
