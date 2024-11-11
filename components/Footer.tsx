@@ -7,7 +7,8 @@ export default function Footer() {
       dir="rtl"
       className=" w-full  pb-10 flex flex-col px-[2rem] py-10 bg-[#020A25]"
     >
-      <div className=" flex  justify-between w-full items-center gap-x-2">
+      <div className=" w-full flex flex-col lg:flex-row lg:justify-between ">
+      <div className=" flex  justify-between  items-center gap-x-2">
         <div className=" flex  flex-col gap-y-2">
           <div className=" flex items-center  gap-x-2">
             <Image src="/svgicon/logo.svg" alt="pic" width={40} height={100} />
@@ -15,7 +16,7 @@ export default function Footer() {
               شمس
             </h1>
           </div>
-          <p className=" text-[#ffffff9f] max-w-[12rem] text-[11px] ">
+          <p className=" text-[#ffffff9f] max-w-[12rem] lg:max-w-[16rem] text-[11px] lg:text-[16px] ">
             لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با
             استفاده از طراحان
           </p>
@@ -75,10 +76,12 @@ export default function Footer() {
         <li className=" relative flex items-center  gap-x-2 mb-2 text-white">
             <Image src="/svgicon/map.svg" alt="pic" width={20} height={100} />
 
-            <p className=" text-[20px]">تهران - ملاصدرا - خیابان شیراز شمالی - نبش کوچه </p>
+            <p className=" text-[20px]">تهران - ملاصدرا - خیابان - نبش کوچه </p>
           </li>
         </ul>
       </div>
+      </div>
+     
 
       <div className='mt-5'>
         <div className=" w-full h-1 rounded-full bg-[#ffffff75]"/>
@@ -87,4 +90,3 @@ export default function Footer() {
     </footer>
   );
 }
-
