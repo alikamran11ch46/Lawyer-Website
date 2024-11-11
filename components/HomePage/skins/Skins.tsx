@@ -1,6 +1,7 @@
 import { SKINPART } from '@/constant'
 import React from 'react'
 import Image from 'next/image'
+import NumberTicker from "@/components/magicui/number-ticker";
 
 export default function Skins() {
   return (
@@ -11,7 +12,7 @@ export default function Skins() {
                     <div className=' flex justify-center items-center flex-col xl:flex-row-reverse xl:gap-x-5 group  gap-2 h-full w-full  lg:px-4' key={index}>
                             <Image src={item.icon} alt='pic' className=' group-hover:scale-90 transition-all ease-in duration-100 w-[4rem]' width={0} height={100}/>
                            <div className='  text-center'>
-                            <h1 className=' font-bold xl:text-[30px]'>{item.number}</h1>
+                            <h1 className=' font-bold xl:text-[30px]'> +<NumberTicker value={item.number} /></h1>
                             <h1 className=' font-bold'>{item.titile}</h1>
                            </div>
                     </div>
