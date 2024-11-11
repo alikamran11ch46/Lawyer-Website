@@ -82,7 +82,7 @@ export default function Footer() {
 
       <div className='mt-5'>
         <div className=" w-full h-1 rounded-full bg-[#ffffff75]"/>
-        <p className=" text-[13px] text-center text-[#ffffff75] mt-4">تمامی حقوق وبسایت متعلق به کاویانی میباشد . کپی به هر شکل غیر مجاز است</p>
+        <p className=" text-[13px] text-center text-[#ffffff75] mt-4">تمامی حقوق وبسایت متعلق به شمس میباشد . کپی به هر شکل غیر مجاز است</p>
       </div>
     </footer>
   );
