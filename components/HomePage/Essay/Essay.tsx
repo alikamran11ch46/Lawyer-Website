@@ -15,9 +15,11 @@ export default function Essay() {
             </p>
             <h4 className=" text-[30px] font-bold">بروزترین مقالات</h4>
           </div>
-          <button className=" hidden md:block px-10 py-2 bg-[#d4af37af] border">
-            مشاهده بیشتر
-          </button>
+            <Link href='/essays'>
+            <button className=" hidden md:block px-10 py-2 bg-[#d4af37af] border">
+              مشاهده بیشتر
+            </button>
+          </Link>
         </div>
 
         <div dir="rtl" className=" w-full grid   grid-cols-1 justify-items-center  md:grid-cols-2 gap-y-10  lg:grid-cols-3  mt-20">
