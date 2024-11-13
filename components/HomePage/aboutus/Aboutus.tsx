@@ -14,7 +14,7 @@ export default function Aboutus() {
         <section>
         <div dir='rtl' className=' px-6 md:max-w-[25rem] lg:max-w-[35rem] mr-4 xl:max-w-[45rem]'>
                 <p className=' h-[2.5rem] w-[5rem] font-bold py-2 px-2  border-r-4  border-[#D4AF37]   text-[#D4AF37]'>درباره ما</p>
-                <h1 className=' text-[32px] mb-4 font-bold'>حسین کاویانی</h1>
+                <h1 className=' text-[32px] mb-4 font-bold'> پارسا شمس</h1>
                 <p className=' font-bold mb-4'>لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است و برای شرایط فعلی تکنولوژی مورد نیاز و کاربردهای متنوع با هدف بهبود ابزارهای کاربردی می باشد کتابهای زیادی در شصت و سه درصد گذشته حال و آینده</p>
                 <p className=' font-bold mb-4'>لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است و برای شرایط فعلی تکنولوژی مورد نیاز و ..... </p>
                 <button className=' w-[40%] relative py-1 mt-3  group lg:py-3 text-white rounded-md border border-[#D4AF37]'>
