@@ -2,30 +2,49 @@
 @tailwind components;
 @tailwind utilities;
 
+/* Mobile optimization - prevent horizontal scroll */
+html, body {
+  overflow-x: hidden;
+  width: 100%;
+  max-width: 100vw;
+}
+
+body {
+  position: relative;
+}
+
+/* Ensure all containers don't exceed viewport width */
+* {
+  box-sizing: border-box;
+}
+
+/* Mobile responsive improvements */
+@media (max-width: 768px) {
+  /* Prevent text overflow */
+  h1, h2, h3, h4, h5, h6, p, span, div {
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+  }
+
+  /* Ensure images are responsive */
+  img {
+    max-width: 100%;
+    height: auto;
+  }
+}
+
 .homebg{
-  background-image: url('../public/homepic/lawhome.jpg');
+  background-image: url('../public/justice.png');
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
 }
 
-.essbg{
-  background-image: url('../public/homepic/ess.jpg');
-  background-repeat: no-repeat;
-  background-position: center;
-  background-size: cover;
-}
-
-.detailbg{
-  background-image: url('../public/homepic/detail.jpg');
-  background-repeat: no-repeat;
-  background-position: center;
-  background-size: cover;
-}
 
 .aboutbg{
-  background-image: url('../public/homepic/about.jpg');
+  background-image: url('../public/bg-about-us.png');
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
 }
+

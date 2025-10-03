@@ -1,33 +1,33 @@
 export const NAVBAR=[
     {
         id:1,
-        title:'خانه',
+        title:'Home',
         url:'/'
     },
     {
         id:1,
-        title:'وکلا',
+        title:'Lawyers',
         url:'/about-us'
     },
     {
         id:1,
-        title:'درباره ما',
+        title:'About Us',
         url:'/about-us'
     },
-    
+
     {
         id:1,
-        title:'تماس با ما',
+        title:'Contact Us',
         url:'/contact-us'
     },
     {
         id:1,
-        title:'وبلاگ',
+        title:'Blog',
         url:'/essays'
     },
     {
         id:1,
-        title:'نمونه دادخواست ها',
+        title:'Sample Petitions',
         url:'/essays'
     },
 ]
@@ -37,25 +37,25 @@ export const NAVBAR=[
 export const SKINPART = [
     {
         id:1,
-        titile:'پرونده های موفق',
+        titile:'Successful Cases',
         icon:'/svgicon/lawsvg.svg',
         number:'+300'
     },
     {
         id:2,
-        titile:'پرونده حقوقی موفق',
+        titile:'Successful Legal Cases',
         icon:'/svgicon/bag.svg',
         number:'+180'
     },
     {
         id:3,
-        titile:'رضایت موکل',
+        titile:'Client Satisfaction',
         icon:'/svgicon/person.svg',
         number:'+300'
     },
     {
         id:4,
-        titile:'رضایت شما',
+        titile:'Your Satisfaction',
         icon:'/svgicon/like.svg',
         number:'+1000'
     },
@@ -64,16 +64,16 @@ export const SKINPART = [
 
 export const SEC3 = [
     {
-        title:'حقوق کیفری'
+        title:'Criminal Law'
     },
     {
-        title:'امور حقوقی'
+        title:'Legal Affairs'
     },
     {
-        title:'حقوق تجاری'
+        title:'Commercial Law'
     },
     {
-        title:'حقوق خانواده'
+        title:'Family Law'
     },
 ]
 export const SEC5 = [
@@ -114,11 +114,11 @@ export const SEC4 = [
 
 export const CONTACT = [
     {
-        title:'026-34847474',
+        title:'0333-11111111',
         pic:'/svgicon/phone.svg'
     },
     {
-        title:'09223838374',
+        title:'0313123456',
         pic:'/svgicon/phone.svg'
     },
     {
@@ -126,7 +126,7 @@ export const CONTACT = [
         pic:'/svgicon/mail.svg'
     },
     {
-        title:'تهران - ملاصدرا - خیابان شیراز شمالی - نبش کوچه ',
+        title:'District Bar Association Judicial Complex, Tando Muhammad Khan.',
         pic:'/svgicon/map.svg'
     },
 ]

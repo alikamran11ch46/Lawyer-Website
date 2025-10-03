@@ -12,8 +12,8 @@ export default function Skins() {
                     <div className=' flex justify-center items-center flex-col xl:flex-row-reverse xl:gap-x-5 group  gap-2 h-full w-full  lg:px-4' key={index}>
                             <Image src={item.icon} alt='pic' className=' group-hover:scale-90 transition-all ease-in duration-100 w-[4rem]' width={0} height={100}/>
                            <div className='  text-center'>
-                            <h1 className=' font-bold xl:text-[30px] text-black'> +<NumberTicker value={Number(item.number)} /></h1>
-                            <h1 className=' font-bold'>{item.titile}</h1>
+                            <h1 className=' font-bold xl:text-[30px] text-black' style={{color: 'black'}}> +<span style={{color: 'black'}}><NumberTicker value={Number(item.number.replace('+', ''))} className="!text-black font-bold" /></span></h1>
+                            <h1 className=' font-bold text-black'>{item.titile}</h1>
                            </div>
                     </div>
                 ))}

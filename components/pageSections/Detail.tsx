@@ -5,30 +5,19 @@ import Image from "next/image";
 export default function Detail() {
   return (
     <div className=" mb-20">
-      <BannerMaker title="حکم خیانت زن به شوهر " banner="detailbg" />
+      <BannerMaker title="Legal Ruling on Marital Infidelity" banner="detailbg" />
 
-      <section dir="rtl" className=" w-full px-5  md:px-10  leading-9 font-bold text-justify  text-[17px] mt-10 ">
+      <section className=" w-full px-5  md:px-10  leading-9 font-bold text-justify  text-[17px] mt-10 ">
         <p>
-          به شخصی که از طرف موکل اختیاراتی بر عهده دارد تا در حوزه‌های مختلف از
-          او دفاع کند، وکیل گفته می‌شود. پیدا کردن بهترین وکیل تهران ممکن است
-          برای بعضی‌ها کار سختی به نظر برسد؛ زیرا تهران به عنوان پایتخت کشور، یک
-          شهر بسیار بزرگ و پرجمعیت است و وکلای زیادی دارد. اگر می‌خواهید در امور
-          حقوقی و دعاوی کیفری، خانوادگی و… حق خود را بگیرید، به شما پیشنهاد
-          می‌دهیم به یک وکیل خوب و حاذق مراجعه کنید.وکیل تهران باید پروانه
-          وکالت گرفته باشد تا با داشتن تخصص و تجربه کافی بتواند مشکل شما را حل
-          کند. پس خیلی مهم است که هنگام مشاوره روند چند نمونه از پرونده‌های موفق
-          را برایتان توضیح دهد. به طور کلی وکیل تهران با داشتن یک سری خصوصیات و
-          ویژگی‌های خاص، شانس برنده شدن شما را در دادگاه افزایش می‌دهد. در ادامه
-          با معرفی بهترین وکیل پایه یک دادگستری تهران به شما کمک می‌کنیم تا در
-          دعاوی مختلف از حق خود دفاع کنید و برنده نهایی دادگاه باشید.
+          A person who has been given authority by a client to defend them in various fields is called a lawyer. Finding the best lawyer in Tehran may seem difficult for some; because Tehran, as the capital of the country, is a very large and populous city with many lawyers. If you want to get your rights in legal matters and criminal, family lawsuits, we suggest you consult a good and skilled lawyer. A Tehran lawyer must have obtained a license to practice law so that with sufficient expertise and experience, he can solve your problem. So it is very important that during the consultation process, he explains a few examples of successful cases for you. In general, a Tehran lawyer with a series of special characteristics and features increases your chances of winning in court. In the following, by introducing the best first-class court lawyer in Tehran, we will help you defend your rights in various lawsuits and be the final winner of the court.
         </p>
 
         <h1 className=" mt-10 text-[24px] ">
-        وکیل تهران کیست؟
+        Who is a Tehran Lawyer?
         </h1>
 
         <p className=" mt-5">
-        بر اساس قانون هر فردی حق دارد برای انجام اموری که خودش هم قادر به انجام دادن آن‌ها است، وکیل بگیرد. بنابراین وکیل تهران کسی نیست که فقط در دادگاه حضور داشته باشد؛ زیرا امور اداری و هر گونه معامله از طرف موکل هم تحت نظارت او انجام می‌شود. بهترین وکیل در تهران به عنوان یک فرد باتجربه در حل دعاوی کیفری و حقوقی ادعا دارد و با تسلط بر مواد و تبصره‌های قانونی می‌تواند به پیروزی موکل و مختومه کردن پرونده کمک کند.
+        According to the law, every person has the right to hire a lawyer for matters that he himself is capable of doing. Therefore, a Tehran lawyer is not someone who is only present in court; because administrative affairs and any kind of transaction on behalf of the client are also carried out under his supervision. The best lawyer in Tehran, as an experienced person in solving criminal and legal disputes, claims and with mastery of legal materials and provisions, he can help the client's victory and close the case.
         </p>
 
         <div className=" w-full flex justify-center items-center mt-10 ">

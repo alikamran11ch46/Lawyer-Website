@@ -1,0 +1,11 @@
+# robots.txt for District Bar Association Tando Muhammad Khan
+
+User-agent: *
+Allow: /
+
+# Disallow admin and API routes
+Disallow: /admin/
+Disallow: /api/
+
+# Sitemap
+Sitemap: https://dbatmk.org/sitemap.xml

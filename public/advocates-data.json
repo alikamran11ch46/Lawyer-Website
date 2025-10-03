@@ -1,0 +1,402 @@
+[
+  {
+    "Serial Number": 1,
+    "Specialization of Lawyer": "Commercial Law",
+    "Name": "Hassan Abbasi",
+    "Father Name": "Ahmed Mughal",
+    "Mobile No": "0333-28000001",
+    "Years of Experience": 22
+  },
+  {
+    "Serial Number": 2,
+    "Specialization of Lawyer": "Civil Law",
+    "Name": "Adnan Mirza",
+    "Father Name": "Usman Shaikh",
+    "Mobile No": "0333-28000002",
+    "Years of Experience": 14
+  },
+  {
+    "Serial Number": 3,
+    "Specialization of Lawyer": "Family Law",
+    "Name": "Kamran Khaskheli",
+    "Father Name": "Bilal Memon",
+    "Mobile No": "0333-28000003",
+    "Years of Experience": 23
+  },
+  {
+    "Serial Number": 4,
+    "Specialization of Lawyer": "Civil Law",
+    "Name": "Hussain Chandio",
+    "Father Name": "Fahad Mughal",
+    "Mobile No": "0333-28000004",
+    "Years of Experience": 17
+  },
+  {
+    "Serial Number": 5,
+    "Specialization of Lawyer": "Commercial Law",
+    "Name": "Ali Siddiqui",
+    "Father Name": "Asad Khaskheli",
+    "Mobile No": "0333-28000005",
+    "Years of Experience": 24
+  },
+  {
+    "Serial Number": 6,
+    "Specialization of Lawyer": "Family Law",
+    "Name": "Tariq Baloch",
+    "Father Name": "Adnan Leghari",
+    "Mobile No": "0333-28000006",
+    "Years of Experience": 27
+  },
+  {
+    "Serial Number": 7,
+    "Specialization of Lawyer": "Criminal Law",
+    "Name": "Shahbaz Abbasi",
+    "Father Name": "Salman Mirza",
+    "Mobile No": "0333-28000007",
+    "Years of Experience": 13
+  },
+  {
+    "Serial Number": 8,
+    "Specialization of Lawyer": "Family Law",
+    "Name": "Fahad Khaskheli",
+    "Father Name": "Bilal Chandio",
+    "Mobile No": "0333-28000008",
+    "Years of Experience": 26
+  },
+  {
+    "Serial Number": 9,
+    "Specialization of Lawyer": "Criminal Law",
+    "Name": "Kamran Rajput",
+    "Father Name": "Ahmed Rajput",
+    "Mobile No": "0333-28000009",
+    "Years of Experience": 17
+  },
+  {
+    "Serial Number": 10,
+    "Specialization of Lawyer": "Criminal Law",
+    "Name": "Salman Malik",
+    "Father Name": "Salman Junejo",
+    "Mobile No": "0333-28000010",
+    "Years of Experience": 5
+  },
+  {
+    "Serial Number": 11,
+    "Specialization of Lawyer": "Civil Law",
+    "Name": "Bilal Malik",
+    "Father Name": "Waqas Shah",
+    "Mobile No": "0333-28000011",
+    "Years of Experience": 18
+  },
+  {
+    "Serial Number": 12,
+    "Specialization of Lawyer": "Criminal Law",
+    "Name": "Usman Junejo",
+    "Father Name": "Adnan Chandio",
+    "Mobile No": "0333-28000012",
+    "Years of Experience": 6
+  },
+  {
+    "Serial Number": 13,
+    "Specialization of Lawyer": "Family Law",
+    "Name": "Zeeshan Malik",
+    "Father Name": "Farhan Baloch",
+    "Mobile No": "0333-28000013",
+    "Years of Experience": 16
+  },
+  {
+    "Serial Number": 14,
+    "Specialization of Lawyer": "Criminal Law",
+    "Name": "Farhan Ansari",
+    "Father Name": "Rashid Baloch",
+    "Mobile No": "0333-28000014",
+    "Years of Experience": 5
+  },
+  {
+    "Serial Number": 15,
+    "Specialization of Lawyer": "Commercial Law",
+    "Name": "Kamran Brohi",
+    "Father Name": "Bilal Memon",
+    "Mobile No": "0333-28000015",
+    "Years of Experience": 10
+  },
+  {
+    "Serial Number": 16,
+    "Specialization of Lawyer": "Criminal Law",
+    "Name": "Asad Junejo",
+    "Father Name": "Junaid Mirza",
+    "Mobile No": "0333-28000016",
+    "Years of Experience": 1
+  },
+  {
+    "Serial Number": 17,
+    "Specialization of Lawyer": "Civil Law",
+    "Name": "Shahbaz Qureshi",
+    "Father Name": "Noman Mughal",
+    "Mobile No": "0333-28000017",
+    "Years of Experience": 2
+  },
+  {
+    "Serial Number": 18,
+    "Specialization of Lawyer": "Commercial Law",
+    "Name": "Usman Khaskheli",
+    "Father Name": "Bilal Rajput",
+    "Mobile No": "0333-28000018",
+    "Years of Experience": 6
+  },
+  {
+    "Serial Number": 19,
+    "Specialization of Lawyer": "Civil Law",
+    "Name": "Asad Chandio",
+    "Father Name": "Kamran Rajput",
+    "Mobile No": "0333-28000019",
+    "Years of Experience": 23
+  },
+  {
+    "Serial Number": 20,
+    "Specialization of Lawyer": "Criminal Law",
+    "Name": "Asad Shaikh",
+    "Father Name": "Hussain Mirza",
+    "Mobile No": "0333-28000020",
+    "Years of Experience": 30
+  },
+  {
+    "Serial Number": 21,
+    "Specialization of Lawyer": "Civil Law",
+    "Name": "Ahmed Abbasi",
+    "Father Name": "Kamran Mughal",
+    "Mobile No": "0333-28000021",
+    "Years of Experience": 24
+  },
+  {
+    "Serial Number": 22,
+    "Specialization of Lawyer": "Family Law",
+    "Name": "Adnan Khaskheli",
+    "Father Name": "Usman Chandio",
+    "Mobile No": "0333-28000022",
+    "Years of Experience": 22
+  },
+  {
+    "Serial Number": 23,
+    "Specialization of Lawyer": "Family Law",
+    "Name": "Imran Siddiqui",
+    "Father Name": "Tariq Shah",
+    "Mobile No": "0333-28000023",
+    "Years of Experience": 26
+  },
+  {
+    "Serial Number": 24,
+    "Specialization of Lawyer": "Commercial Law",
+    "Name": "Ahmed Baloch",
+    "Father Name": "Ali Shaikh",
+    "Mobile No": "0333-28000024",
+    "Years of Experience": 21
+  },
+  {
+    "Serial Number": 25,
+    "Specialization of Lawyer": "Criminal Law",
+    "Name": "Adnan Chandio",
+    "Father Name": "Zeeshan Baloch",
+    "Mobile No": "0333-28000025",
+    "Years of Experience": 20
+  },
+  {
+    "Serial Number": 26,
+    "Specialization of Lawyer": "Civil Law",
+    "Name": "Imran Mughal",
+    "Father Name": "Zeeshan Shaikh",
+    "Mobile No": "0333-28000026",
+    "Years of Experience": 1
+  },
+  {
+    "Serial Number": 27,
+    "Specialization of Lawyer": "Commercial Law",
+    "Name": "Shahbaz Chandio",
+    "Father Name": "Ali Junejo",
+    "Mobile No": "0333-28000027",
+    "Years of Experience": 20
+  },
+  {
+    "Serial Number": 28,
+    "Specialization of Lawyer": "Commercial Law",
+    "Name": "Zeeshan Memon",
+    "Father Name": "Bilal Soomro",
+    "Mobile No": "0333-28000028",
+    "Years of Experience": 7
+  },
+  {
+    "Serial Number": 29,
+    "Specialization of Lawyer": "Criminal Law",
+    "Name": "Ali Memon",
+    "Father Name": "Asad Chandio",
+    "Mobile No": "0333-28000029",
+    "Years of Experience": 25
+  },
+  {
+    "Serial Number": 30,
+    "Specialization of Lawyer": "Commercial Law",
+    "Name": "Kamran Chandio",
+    "Father Name": "Adnan Rajput",
+    "Mobile No": "0333-28000030",
+    "Years of Experience": 18
+  },
+  {
+    "Serial Number": 31,
+    "Specialization of Lawyer": "Commercial Law",
+    "Name": "Waqas Shah",
+    "Father Name": "Fahad Malik",
+    "Mobile No": "0333-28000031",
+    "Years of Experience": 3
+  },
+  {
+    "Serial Number": 32,
+    "Specialization of Lawyer": "Criminal Law",
+    "Name": "Usman Junejo",
+    "Father Name": "Junaid Abbasi",
+    "Mobile No": "0333-28000032",
+    "Years of Experience": 7
+  },
+  {
+    "Serial Number": 33,
+    "Specialization of Lawyer": "Family Law",
+    "Name": "Hassan Rind",
+    "Father Name": "Adnan Junejo",
+    "Mobile No": "0333-28000033",
+    "Years of Experience": 21
+  },
+  {
+    "Serial Number": 34,
+    "Specialization of Lawyer": "Civil Law",
+    "Name": "Adnan Baloch",
+    "Father Name": "Ali Mughal",
+    "Mobile No": "0333-28000034",
+    "Years of Experience": 1
+  },
+  {
+    "Serial Number": 35,
+    "Specialization of Lawyer": "Criminal Law",
+    "Name": "Kamran Qureshi",
+    "Father Name": "Shahbaz Chandio",
+    "Mobile No": "0333-28000035",
+    "Years of Experience": 7
+  },
+  {
+    "Serial Number": 36,
+    "Specialization of Lawyer": "Criminal Law",
+    "Name": "Fahad Leghari",
+    "Father Name": "Hassan Ansari",
+    "Mobile No": "0333-28000036",
+    "Years of Experience": 28
+  },
+  {
+    "Serial Number": 37,
+    "Specialization of Lawyer": "Criminal Law",
+    "Name": "Adnan Mughal",
+    "Father Name": "Zeeshan Junejo",
+    "Mobile No": "0333-28000037",
+    "Years of Experience": 18
+  },
+  {
+    "Serial Number": 38,
+    "Specialization of Lawyer": "Family Law",
+    "Name": "Zeeshan Khaskheli",
+    "Father Name": "Fahad Leghari",
+    "Mobile No": "0333-28000038",
+    "Years of Experience": 1
+  },
+  {
+    "Serial Number": 39,
+    "Specialization of Lawyer": "Family Law",
+    "Name": "Zeeshan Ansari",
+    "Father Name": "Shahbaz Chandio",
+    "Mobile No": "0333-28000039",
+    "Years of Experience": 30
+  },
+  {
+    "Serial Number": 40,
+    "Specialization of Lawyer": "Commercial Law",
+    "Name": "Asad Memon",
+    "Father Name": "Farhan Rajput",
+    "Mobile No": "0333-28000040",
+    "Years of Experience": 27
+  },
+  {
+    "Serial Number": 41,
+    "Specialization of Lawyer": "Commercial Law",
+    "Name": "Fahad Brohi",
+    "Father Name": "Waqas Shaikh",
+    "Mobile No": "0333-28000041",
+    "Years of Experience": 5
+  },
+  {
+    "Serial Number": 42,
+    "Specialization of Lawyer": "Commercial Law",
+    "Name": "Hussain Ansari",
+    "Father Name": "Noman Mirza",
+    "Mobile No": "0333-28000042",
+    "Years of Experience": 8
+  },
+  {
+    "Serial Number": 43,
+    "Specialization of Lawyer": "Civil Law",
+    "Name": "Fahad Leghari",
+    "Father Name": "Noman Khaskheli",
+    "Mobile No": "0333-28000043",
+    "Years of Experience": 10
+  },
+  {
+    "Serial Number": 44,
+    "Specialization of Lawyer": "Criminal Law",
+    "Name": "Salman Baloch",
+    "Father Name": "Tariq Junejo",
+    "Mobile No": "0333-28000044",
+    "Years of Experience": 4
+  },
+  {
+    "Serial Number": 45,
+    "Specialization of Lawyer": "Family Law",
+    "Name": "Kamran Memon",
+    "Father Name": "Adnan Chandio",
+    "Mobile No": "0333-28000045",
+    "Years of Experience": 3
+  },
+  {
+    "Serial Number": 46,
+    "Specialization of Lawyer": "Criminal Law",
+    "Name": "Ali Qureshi",
+    "Father Name": "Junaid Mughal",
+    "Mobile No": "0333-28000046",
+    "Years of Experience": 16
+  },
+  {
+    "Serial Number": 47,
+    "Specialization of Lawyer": "Commercial Law",
+    "Name": "Rashid Leghari",
+    "Father Name": "Hassan Siddiqui",
+    "Mobile No": "0333-28000047",
+    "Years of Experience": 20
+  },
+  {
+    "Serial Number": 48,
+    "Specialization of Lawyer": "Criminal Law",
+    "Name": "Adnan Brohi",
+    "Father Name": "Shahbaz Qureshi",
+    "Mobile No": "0333-28000048",
+    "Years of Experience": 3
+  },
+  {
+    "Serial Number": 49,
+    "Specialization of Lawyer": "Civil Law",
+    "Name": "Imran Junejo",
+    "Father Name": "Ahmed Ansari",
+    "Mobile No": "0333-28000049",
+    "Years of Experience": 17
+  },
+  {
+    "Serial Number": 50,
+    "Specialization of Lawyer": "Civil Law",
+    "Name": "Salman Shah",
+    "Father Name": "Zeeshan Shah",
+    "Mobile No": "0333-28000050",
+    "Years of Experience": 10
+  }
+]

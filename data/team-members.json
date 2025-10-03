@@ -1,0 +1,68 @@
+[
+  {
+    "id": "1",
+    "name": "Manzoor Ahmed Panhwar ASC",
+    "position": "President",
+    "photo": "/team/president.jpg",
+    "email": "president@dbatmk.org",
+    "phone": "+92 XXX XXXXXXX",
+    "message": "Leading our legal community with dedication and commitment to justice.",
+    "order": 1,
+    "addedAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "2",
+    "name": "Abdul Latif Soomro",
+    "position": "Vice President",
+    "photo": "/team/vice-president.jpg",
+    "email": "vicepresident@dbatmk.org",
+    "phone": "+92 XXX XXXXXXX",
+    "message": "Supporting our members and upholding the highest standards of legal practice.",
+    "order": 2,
+    "addedAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "3",
+    "name": "M. Nadeem Qureshi",
+    "position": "General Secretary",
+    "photo": "/team/general-secretary.jpg",
+    "email": "secretary@dbatmk.org",
+    "phone": "+92 XXX XXXXXXX",
+    "message": "Coordinating all administrative matters and member services efficiently.",
+    "order": 3,
+    "addedAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "4",
+    "name": "Muzaffar H. Brohi",
+    "position": "Joint Secretary",
+    "photo": "/team/joint-secretary.jpg",
+    "email": "jointsec@dbatmk.org",
+    "phone": "+92 XXX XXXXXXX",
+    "message": "Assisting in all secretarial duties and member communications.",
+    "order": 4,
+    "addedAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "5",
+    "name": "Lalchand Maheshwari",
+    "position": "Library Secretary",
+    "photo": "/team/library-secretary.jpg",
+    "email": "library@dbatmk.org",
+    "phone": "+92 XXX XXXXXXX",
+    "message": "Managing our extensive legal library and resources for member benefit.",
+    "order": 5,
+    "addedAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "6",
+    "name": "Rehan Khan Pathan",
+    "position": "Treasurer",
+    "photo": "/team/treasurer.jpg",
+    "email": "treasurer@dbatmk.org",
+    "phone": "+92 XXX XXXXXXX",
+    "message": "Ensuring financial transparency and proper management of bar funds.",
+    "order": 6,
+    "addedAt": "2025-01-01T00:00:00.000Z"
+  }
+]

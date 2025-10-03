@@ -8,7 +8,6 @@ type BannerProps = {
 export default function BannerMaker({title , banner} : BannerProps) {
   return (
     <div
-        dir="rtl"
         className={`${banner} relative flex  items-center w-full  z-20 md:h-[30rem]  h-[23rem]`}
       >
         <div className=" w-full h-full  absolute  bg-[#0202026e]" />
@@ -17,7 +16,7 @@ export default function BannerMaker({title , banner} : BannerProps) {
           {title}
           </h1>
           <p className="  text-white font-bold underline">
-            خانه {" >"} {title}
+            Home {" >"} {title}
           </p>
         </div>
       </div>
